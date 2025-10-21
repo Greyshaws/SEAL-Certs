@@ -13,10 +13,9 @@ Attestations are issued as proof that a protocol has successfully passed a SEAL 
 - SCF-Workspace Security
 - SCF-Protocol Deployment and Oversight
 
-Architecture Components
------------------------
 
 ### 1\. Custom Resolver Contract: RevocationResolver.sol
+-------------
 
 **Contract Address (Sepolia):**
 ```
